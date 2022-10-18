@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Misifusi Empanadas",
+        "stars": 5
+    },
+    {
+        "id": "2",
+        "name": "Pizzamente",
+        "stars": 4.8
+    },
+    {
+        "id": "3",
+        "name": "Soul Helados",
+        "stars": 4.9
+    },
+    {
+        "id": "4",
+        "name": "Hamburguesas Magna",
+        "stars": 4.6
+    },
+    {
+        "id": "5",
+        "name": "De Todo Un Poco",
+        "stars": 4.5
+    }
+]

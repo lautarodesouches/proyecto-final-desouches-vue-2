@@ -1,0 +1,209 @@
+[
+  {
+    "id": "1",
+    "name": "Empanada de carne",
+    "price": 10,
+    "discount": 0,
+    "sales": 59,
+    "storeId": 1,
+    "image": "https://comidasparaguayas.com/wp-content/uploads/2019/11/empanada-de-carne-paraguaya_700x465.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Empanada de pollo",
+    "price": 9,
+    "discount": 0,
+    "sales": 73,
+    "storeId": 1,
+    "image": "https://www.frizata.com/ar/files/products/622b8e5ababe6-34-4.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Empanada de verdura",
+    "price": 8,
+    "discount": 10,
+    "sales": 0,
+    "storeId": 1,
+    "image": "https://locosxlaparrilla.com/wp-content/uploads/2015/02/Receta-recetas-locos-x-la-parrilla-locosxlaparrilla-receta-empanadas-de-acelga-empanada-acelga-empanada-receta-empanada.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Empanada de atún",
+    "price": 9,
+    "discount": 0,
+    "sales": 3,
+    "storeId": 1,
+    "image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2019/09/empanadas-atun1.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Empanada de J&Q",
+    "price": 10,
+    "discount": 5,
+    "sales": 15,
+    "storeId": 1,
+    "image": "https://www.clarin.com/img/2021/04/12/WYz8Yr8tB_1200x630__1.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Pizza cuatro quesos",
+    "price": 25,
+    "discount": 3,
+    "sales": 34,
+    "storeId": 2,
+    "image": "https://unareceta.com/wp-content/uploads/2014/05/pizza-4-quesos.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Pizza de pepperoni",
+    "price": 21,
+    "discount": 0,
+    "sales": 85,
+    "storeId": 2,
+    "image": "https://www.recetaspizzas.com/base/stock/Recipe/30-image/30-image_web.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Pizza hawaiana",
+    "price": 20,
+    "discount": 15,
+    "sales": 0,
+    "storeId": 2,
+    "image": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/11/como-hacer-pizza-hawaiana.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Pizza napolitana",
+    "price": 21,
+    "discount": 0,
+    "sales": 103,
+    "storeId": 2,
+    "image": "https://sivarious.com/wp-content/uploads/2021/03/pizza-napolitana-3.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Pizza fugazza",
+    "price": 19,
+    "discount": 0,
+    "sales": 72,
+    "storeId": 2,
+    "image": "http://alicante.com.ar/uploads/recetas/88_receta.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Helado 1/2 kg",
+    "price": 10,
+    "discount": 0,
+    "sales": 163,
+    "storeId": 3,
+    "image": "https://file.nubing.com.ar/product/fce3174a-6942-476e-b1d0-865988353ab6_FULL_SQUARE.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Balde helado 5 L",
+    "price": 50,
+    "discount": 10,
+    "sales": 84,
+    "storeId": 3,
+    "image": "https://www.sanremohelados.com.ar/fotos/-AmericChocoDulceLeche5_lts.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Cucuruchos x 3",
+    "price": 1,
+    "discount": 0,
+    "sales": 305,
+    "storeId": 3,
+    "image": "https://images.rappi.com.ar/products/1025909-1591900655696.png?d=128x90"
+  },
+  {
+    "id": "14",
+    "name": "Helado 1 kg",
+    "price": 19,
+    "discount": 5,
+    "sales": 457,
+    "storeId": 3,
+    "image": "https://alem.heladosheggel.com/wp-content/uploads/2018/11/453858-8865347a-0f06-47d1-9dd0-1917c4c30113.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Helado 1/4 kg",
+    "price": 6,
+    "discount": 0,
+    "sales": 53,
+    "storeId": 3,
+    "image": "https://www.soppelsahelados.com/wp-content/uploads/2017/10/3_4_kilo.png"
+  },
+  {
+    "id": "16",
+    "name": "Balde helado 3 L",
+    "price": 33,
+    "discount": 7,
+    "sales": 393,
+    "storeId": 3,
+    "image": "https://www.sanremohelados.com.ar/fotos/-AmericanaChocolateDulceDeLeche3_lts.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Hamburguesa con queso",
+    "price": 9,
+    "discount": 3,
+    "sales": 782,
+    "storeId": 4,
+    "image": "https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Hamburguesa clásica",
+    "price": 8,
+    "discount": 0,
+    "sales": 935,
+    "storeId": 4,
+    "image": "https://www.tqma.com.ec/images/com_yoorecipe/banner_superior/15685_1.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Nuggets de pollo x 4",
+    "price": 9,
+    "discount": 0,
+    "sales": 561,
+    "storeId": 4,
+    "image": "https://www.frizata.com/ar/files/products/624f33935203e-430-4.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Hamburguesa clásica",
+    "price": 8,
+    "discount": 5,
+    "sales": 434,
+    "storeId": 5,
+    "image": "https://www.tqma.com.ec/images/com_yoorecipe/banner_superior/15685_1.jpg"
+  },
+  {
+    "id": "21",
+    "name": "Balde helado 3 L",
+    "price": 35,
+    "discount": 10,
+    "sales": 32,
+    "storeId": 5,
+    "image": "https://www.sanremohelados.com.ar/fotos/-AmericanaChocolateDulceDeLeche3_lts.jpg"
+  },
+  {
+    "id": "22",
+    "name": "Pizza muzzarella",
+    "price": 10,
+    "discount": 8,
+    "sales": 823,
+    "storeId": 5,
+    "image": "https://www.laespanolaaceites.com/wp-content/uploads/2019/06/pizza-con-tomate-albahaca-y-mozzarella-1080x671.jpg"
+  },
+  {
+    "id": "23",
+    "name": "Empanada de carne",
+    "price": 11,
+    "discount": 11,
+    "sales": 82,
+    "storeId": 5,
+    "image": "https://comidasparaguayas.com/wp-content/uploads/2019/11/empanada-de-carne-paraguaya_700x465.jpg"
+  }
+]
